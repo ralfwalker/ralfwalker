@@ -1,6 +1,4 @@
-<p align="center"><a href="https://ralfwalker.github.io"><img width="80%" alt="Hello, I'm Revson Jeyson!" src="./assets/short-presentation.png" /></a></p>
-
-<br/>
+<p align="center"><a href="https://ralfwalker.github.io"><img width="100%" height="220px" alt="Hello, I'm Revson Jeyson!" src="./short-presentation.png" /></a></p>
 
 **About me**
 
